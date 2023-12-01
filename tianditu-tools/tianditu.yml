@@ -84,7 +84,7 @@
     uri: crs=EPSG:4490&dpiMode=7&format=image/jpgpng&layers=imgmap&styles=default&tileMatrixSet=default028mm&tilePixelRatio=0&url=https://ditu.zjzwfw.gov.cn/services/wmts/imgmap/2020/oss?REQUEST=GetCapabilities&http-header:referer=https://ditu.zjzwfw.gov.cn/
   - name: 浙江-2021年影像地图
     uri: crs=EPSG:4490&dpiMode=7&format=image/jpgpng&layers=imgmap&styles=default&tileMatrixSet=default028mm&tilePixelRatio=0&url=https://ditu.zjzwfw.gov.cn/services/wmts/imgmap/2021/oss?REQUEST=GetCapabilities&http-header:referer=https://ditu.zjzwfw.gov.cn/
-    天地图-湖北:
+天地图-湖北:
   - name: 湖北-2015年影像地图
     uri: crs='EPSG:4490' format='PNG32' layer='0' url='http://27.17.60.13:6080/arcgis/rest/services/IMG_2015/MapServer'
     type: arcgismapserver
